@@ -1,0 +1,51 @@
+Rozhodovač
+Copyright (c) 2026 Stanislav Kaska
+
+Projekt je zveřejněn pod licencí Creative Commons
+Uveďte původ-Neužívejte komerčně-Nezpracovávejte 4.0 Mezinárodní (CC BY-NC-ND 4.0).
+
+Smíte: projekt si stáhnout, používat ho a sdílet jeho nezměněné kopie, pokud uvedete
+autora a odkaz na zdroj.
+Nesmíte: projekt prodávat ani jinak užívat komerčně a nesmíte šířit jeho upravené verze.
+
+Shrnutí:     https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs
+Plné znění:  https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.cs
+
+Licence CC BY-NC-ND 4.0 se nevztahuje na tyto části:
+
+- Firmware vychází z referenčního projektu claude-desktop-buddy
+  (https://github.com/anthropics/claude-desktop-buddy), Copyright 2026 Anthropic, PBC.
+  Převzaté části (hlavně src/ble_bridge.*, src/data.h, src/stats.h, src/xfer.h a části
+  src/main.cpp) se řídí licencí MIT, plné znění je v LICENSES/MIT-claude-desktop-buddy.txt.
+- Ovladač zvukového kodeku src/es8311.* (Copyright Espressif Systems) se řídí licencí
+  Apache 2.0, plné znění je v LICENSES/Apache-2.0.txt.
+- Knihovny třetích stran ve složce lib/ se řídí vlastními licencemi, které jsou u nich
+  přiložené (GFX Library for Arduino: BSD, SensorLib a XPowersLib: MIT).
+
+Claude, Claude Code, Claude Desktop a postavička Clawd jsou ochranné známky a dílo
+společnosti Anthropic, PBC. Antigravity je ochranná známka společnosti Google LLC.
+Rozhodovač je neoficiální projekt a není s těmito společnostmi nijak spojen, není jimi
+schválen ani podporován.
+
+------------------------------------------------------------------------------
+
+Rozhodovač
+Copyright (c) 2026 Stanislav Kaska
+
+Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International (CC BY-NC-ND 4.0): https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+The following parts are not covered by CC BY-NC-ND 4.0:
+
+- The firmware is based on the claude-desktop-buddy reference project
+  (https://github.com/anthropics/claude-desktop-buddy), Copyright 2026 Anthropic, PBC.
+  Portions taken from it (mainly src/ble_bridge.*, src/data.h, src/stats.h, src/xfer.h
+  and parts of src/main.cpp) are licensed under the MIT License,
+  see LICENSES/MIT-claude-desktop-buddy.txt.
+- The ES8311 codec driver src/es8311.* (Copyright Espressif Systems) is licensed under
+  the Apache License 2.0, see LICENSES/Apache-2.0.txt.
+- Third-party libraries in lib/ are covered by their own licenses included with them.
+
+Claude, Claude Code, Claude Desktop and the Clawd character are trademarks and works of
+Anthropic, PBC. Antigravity is a trademark of Google LLC. Rozhodovač is an unofficial
+project and is not affiliated with, endorsed or sponsored by these companies.
